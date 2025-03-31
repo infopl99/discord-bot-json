@@ -1,0 +1,23 @@
+{
+  "commands": [
+    {
+      "name": "ping",
+      "description": "Répond avec pong!",
+      "usage": "!ping",
+      "cooldown": 5
+    },
+    {
+      "name": "help",
+      "description": "Affiche la liste des commandes disponibles",
+      "usage": "!help [commande]",
+      "cooldown": 3
+    },
+    {
+      "name": "clear",
+      "description": "Supprime un nombre spécifié de messages",
+      "usage": "!clear [nombre]",
+      "cooldown": 10,
+      "permissions": ["MANAGE_MESSAGES"]
+    }
+  ]
+}
