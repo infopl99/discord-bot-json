@@ -1,0 +1,13 @@
+{
+  "token": "VOTRE_TOKEN_DISCORD_ICI",
+  "clientId": "ID_DE_VOTRE_APPLICATION",
+  "guildId": "ID_DE_VOTRE_SERVEUR_POUR_DEV",
+  "prefix": "!",
+  "status": "online",
+  "activity": {
+    "type": "PLAYING",
+    "name": "avec Discord.js"
+  },
+  "owners": ["VOTRE_ID_DISCORD"],
+  "logChannel": "ID_DU_CANAL_DE_LOGS"
+}
