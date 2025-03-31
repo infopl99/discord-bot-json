@@ -1,0 +1,17 @@
+{
+  "welcome": "Bienvenue sur le serveur {user}!",
+  "goodbye": "Au revoir {user}, à bientôt!",
+  "errors": {
+    "permission": "Vous n'avez pas la permission d'utiliser cette commande.",
+    "cooldown": "Veuillez attendre {time} secondes avant d'utiliser cette commande à nouveau.",
+    "generic": "Une erreur s'est produite. Veuillez réessayer plus tard."
+  },
+  "custom": {
+    "daily_reminder": "N'oubliez pas de récupérer votre récompense quotidienne!",
+    "server_rules": [
+      "Soyez respectueux envers les autres membres",
+      "Pas de spam ou de publicité",
+      "Utilisez les canaux appropriés pour vos messages"
+    ]
+  }
+}
